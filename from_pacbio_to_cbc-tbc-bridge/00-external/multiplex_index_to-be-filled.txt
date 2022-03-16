@@ -1,0 +1,17 @@
+name	in primer	rc	sample	run	lib	pooled_ng
+I(ndex)1	CGTGAT	ATCACG				
+I(ndex)2	ACATCG	CGATGT				
+I(ndex)3	GCCTAA	TTAGGC				
+I(ndex)4	TGGTCA	TGACCA				
+I(ndex)5	CACTGT	ACAGTG				
+I(ndex)6	ATTGGC	GCCAAT				
+I(ndex)7	GATCTG	CAGATC				
+I(ndex)8	TCAAGT	ACTTGA				
+I(ndex)9	CTGATC	GATCAG				
+I(ndex)10	AAGCTA	TAGCTT				
+I(ndex)11	GTAGCC	GGCTAC				
+I(ndex)12	TACAAG	CTTGTA				
+I(ndex)13	TTGACT	AGTCAA				
+I(ndex)14	GGAACT	AGTTCC				
+I(ndex)15	TGACAT	ATGTCA				
+I(ndex)18	GCGGAC	GTCCGC				
