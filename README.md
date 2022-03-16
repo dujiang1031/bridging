@@ -1,4 +1,5 @@
-# bridging
+# Bridging
+## by Rong Lu Lab @ USC Stem Cell
 
 ### There are two folders here, each of which includes instructions and codes for one pipeline. Both pipelines are written in Python3
 
